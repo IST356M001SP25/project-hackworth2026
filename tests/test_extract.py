@@ -2,7 +2,7 @@ import pytest
 import os
 import json
 from unittest.mock import patch
-from projectHackworth2026.code.extract import extract
+from projectHackworth2026.code import extract
 
 @patch('projectHackworth2026.code.extract.requests.get')
 def test_fetch_superhero_data(mock_get):

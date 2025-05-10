@@ -1,7 +1,7 @@
 import json
 import os
 import pandas as pd
-from projectHackworth2026.code.transform import transform
+from projectHackworth2026.code import transform
 
 def test_transform_data():
     # Create dummy raw_data.json

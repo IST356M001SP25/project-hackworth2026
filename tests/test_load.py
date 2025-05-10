@@ -1,5 +1,5 @@
 import pandas as pd
-from projectHackworth2026.code.load import load
+from projectHackworth2026.code import load
 
 def test_load_data():
     df = load.load_data()
