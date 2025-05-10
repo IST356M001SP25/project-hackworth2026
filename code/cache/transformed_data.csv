@@ -1,2 +1,425 @@
 name,slug,publisher,alignment,gender,race,intelligence,strength,speed,durability,power,combat
-Batman,batman,DC Comics,good,Male,Human,100,26,27,50,47,100
+A-Bomb,1-a-bomb,Marvel Comics,good,Male,Human,38,100,17,80,24,64
+Abin Sur,3-abin-sur,DC Comics,good,Male,Ungaran,50,90,53,64,99,65
+Abomination,4-abomination,Marvel Comics,bad,Male,Human / Radiation,63,80,53,90,62,95
+Abraxas,5-abraxas,Marvel Comics,bad,Male,Cosmic Entity,88,63,83,100,100,55
+Absorbing Man,6-absorbing-man,Marvel Comics,bad,Male,Human,38,80,25,100,98,64
+Adam Strange,8-adam-strange,DC Comics,good,Male,Human,69,10,33,40,37,50
+Agent Bob,10-agent-bob,Marvel Comics,good,Male,Human,10,8,13,5,5,20
+Agent Zero,11-agent-zero,Marvel Comics,good,Male,,75,28,38,80,72,95
+Air-Walker,12-air-walker,Marvel Comics,bad,Male,,50,85,100,85,100,40
+Ajax,13-ajax,Marvel Comics,bad,Male,Cyborg,56,48,35,80,34,55
+Alan Scott,14-alan-scott,DC Comics,good,Male,,63,80,23,90,100,32
+Alfred Pennyworth,17-alfred-pennyworth,DC Comics,good,Male,Human,63,10,17,10,7,55
+Amazo,20-amazo,DC Comics,bad,Male,Android,63,100,83,100,100,100
+Angel Dust,25-angel-dust,Marvel Comics,good,Female,Mutant,38,55,23,42,17,30
+Animal Man,28-animal-man,DC Comics,good,Male,Human,56,48,47,85,73,80
+Annihilus,29-annihilus,Marvel Comics,bad,Male,,75,80,47,56,59,64
+Ant-Man II,31-ant-man-ii,Marvel Comics,good,Male,Human,75,18,17,40,53,30
+Anti-Monitor,32-anti-monitor,DC Comics,bad,Male,God / Eternal,88,100,50,100,100,90
+Apocalypse,35-apocalypse,Marvel Comics,bad,Male,Mutant,100,100,33,100,100,60
+Aquababy,36-aquababy,DC Comics,good,Male,,10,16,12,14,37,14
+Aqualad,37-aqualad,DC Comics,good,Male,Atlantean,63,44,42,75,89,60
+Aquaman,38-aquaman,DC Comics,good,Male,Atlantean,81,85,79,80,100,80
+Arachne,39-arachne,Marvel Comics,good,Female,Human,50,48,50,70,71,70
+Arclight,41-arclight,Marvel Comics,bad,Female,,38,63,23,42,52,70
+Ardina,42-ardina,Marvel Comics,good,Female,Alien,63,100,100,80,100,25
+Ares,43-ares,Marvel Comics,good,Male,,75,82,35,80,84,101
+Ariel,44-ariel,Marvel Comics,good,Female,,50,10,12,14,94,28
+Armor,45-armor,Marvel Comics,good,Female,,50,63,12,80,55,54
+Atlas,49-atlas,DC Comics,bad,Male,God / Eternal,63,100,42,100,27,80
+Atom Girl,52-atom-girl,DC Comics,good,Female,,38,10,23,28,38,42
+Atom II,53-atom-ii,DC Comics,good,Male,Human,88,10,33,45,40,60
+Aurora,56-aurora,Marvel Comics,good,Female,Mutant,63,10,96,60,74,56
+Azazel,57-azazel,Marvel Comics,bad,Male,Neyaphem,50,11,47,95,100,80
+Azrael,58-azrael,DC Comics,good,Male,Human,63,18,17,20,35,80
+Bane,60-bane,DC Comics,bad,Male,Human,88,38,23,56,51,95
+Banshee,61-banshee,Marvel Comics,good,Male,Human,50,10,58,40,63,70
+Bantam,62-bantam,Marvel Comics,good,Male,,25,53,23,54,21,56
+Batgirl IV,66-batgirl-iv,DC Comics,good,Female,Human,69,12,27,56,46,100
+Batman,69-batman,DC Comics,good,Male,Human,81,40,29,55,63,90
+Batman,70-batman,DC Comics,good,Male,Human,100,26,27,50,47,100
+Battlestar,72-battlestar,Marvel Comics,good,Male,,50,53,35,74,48,74
+Batwoman V,73-batwoman-v,DC Comics,good,Female,Human,81,8,29,25,27,80
+Beast,75-beast,Marvel Comics,good,Male,Mutant,94,48,38,60,43,85
+Beast Boy,76-beast-boy,DC Comics,good,Male,Human,50,28,50,70,79,40
+Ben 10,78-ben-10,DC Comics,good,Male,,10,7,8,10,90,40
+Beta Ray Bill,79-beta-ray-bill,Marvel Comics,good,Male,,63,80,35,95,100,84
+Beyonder,80-beyonder,Marvel Comics,good,Male,God / Eternal,100,100,100,100,100,84
+Big Barda,81-big-barda,DC Comics,bad,Female,New God,88,100,79,100,100,100
+Big Man,83-big-man,Marvel Comics,bad,Male,,75,12,23,28,19,70
+Bird-Brain,88-bird-brain,Marvel Comics,good,-,,25,10,35,28,21,42
+Bishop,92-bishop,Marvel Comics,good,Male,Mutant,63,14,23,75,100,65
+Bizarro,93-bizarro,DC Comics,neutral,Male,Bizarro,38,95,100,100,100,85
+Black Adam,95-black-adam,DC Comics,bad,Male,,88,100,92,100,100,56
+Black Bolt,96-black-bolt,Marvel Comics,good,Male,Inhuman,75,67,100,84,100,56
+Black Canary,97-black-canary,DC Comics,good,Female,Metahuman,63,8,33,20,52,80
+Black Canary,98-black-canary,DC Comics,good,Female,Human,63,8,33,15,45,80
+Black Cat,99-black-cat,Marvel Comics,good,Female,Human,75,16,33,10,23,70
+Black Flash,100-black-flash,DC Comics,neutral,Male,God / Eternal,44,10,100,80,100,30
+Black Knight III,102-black-knight-iii,Marvel Comics,good,Male,Human,63,10,8,70,43,70
+Black Lightning,103-black-lightning,DC Comics,good,Male,,50,11,53,28,70,75
+Black Mamba,104-black-mamba,Marvel Comics,bad,Female,,75,10,35,42,88,65
+Black Manta,105-black-manta,DC Comics,bad,Male,Human,75,28,50,60,76,85
+Black Panther,106-black-panther,Marvel Comics,good,Male,Human,88,16,30,60,41,100
+Black Widow,107-black-widow,Marvel Comics,good,Female,Human,75,13,33,30,36,100
+Blackout,109-blackout,Marvel Comics,bad,Male,Demon,63,32,45,80,45,65
+Blackwing,110-blackwing,Marvel Comics,bad,Male,,38,10,35,32,20,56
+Blackwulf,111-blackwulf,Marvel Comics,-,Male,Alien,50,28,8,30,69,25
+Blade,112-blade,Marvel Comics,good,Male,Vampire,63,28,38,50,40,90
+Bling!,114-bling!,Marvel Comics,good,Female,,69,14,12,90,52,28
+Blink,115-blink,Marvel Comics,good,Female,Mutant,50,8,20,28,77,64
+Blizzard II,118-blizzard-ii,Marvel Comics,bad,Male,,38,10,27,42,47,56
+Blob,119-blob,Marvel Comics,bad,Male,,10,83,23,95,28,72
+Bloodaxe,120-bloodaxe,Marvel Comics,bad,Female,Human,63,80,33,80,100,84
+Bloodhawk,121-bloodhawk,Marvel Comics,good,Male,Mutant,50,10,50,80,80,64
+Blue Beetle III,126-blue-beetle-iii,DC Comics,good,Male,Human,50,34,58,80,100,30
+Brainiac,136-brainiac,DC Comics,bad,Male,Android,100,95,63,90,60,75
+Brainiac 5,137-brainiac-5,DC Comics,good,Male,,100,10,23,28,60,32
+Bullseye,141-bullseye,Marvel Comics,bad,Male,Human,50,11,25,70,20,70
+Bumblebee,142-bumblebee,DC Comics,good,Female,Human,63,28,25,10,47,35
+Bushido,144-bushido,DC Comics,good,Male,Human,38,10,8,10,19,70
+Cable,145-cable,Marvel Comics,good,Male,Mutant,88,48,23,56,100,80
+Callisto,146-callisto,Marvel Comics,bad,Female,,63,53,23,42,52,85
+Cannonball,148-cannonball,Marvel Comics,good,Male,,50,28,67,99,94,56
+Captain America,149-captain-america,Marvel Comics,good,Male,Human,69,19,38,55,60,100
+Captain Atom,150-captain-atom,DC Comics,good,Male,Human / Radiation,81,93,83,90,100,80
+Captain Britain,151-captain-britain,Marvel Comics,good,Male,Human,75,77,50,60,31,80
+Captain Cold,152-captain-cold,DC Comics,neutral,Male,Human,50,10,17,20,28,20
+Captain Marvel,156-captain-marvel,DC Comics,good,Male,Human,88,100,88,95,100,75
+Captain Marvel II,158-captain-marvel-ii,DC Comics,good,Male,Human,75,81,27,90,34,56
+Captain Planet,160-captain-planet,Marvel Comics,good,Male,God / Eternal,50,88,75,80,100,60
+Carnage,162-carnage,Marvel Comics,bad,Male,Symbiote,63,63,70,84,88,90
+Catwoman,165-catwoman,DC Comics,good,Female,Human,69,11,33,28,27,85
+Century,167-century,Marvel Comics,good,Male,Alien,88,80,53,64,100,100
+Chamber,169-chamber,Marvel Comics,good,Male,Mutant,50,10,20,80,57,64
+Chameleon,170-chameleon,DC Comics,bad,Male,,88,10,12,28,28,28
+Changeling,171-changeling,Marvel Comics,bad,Male,,63,10,23,42,64,64
+Cheetah,172-cheetah,DC Comics,bad,Female,Human,38,8,42,20,32,70
+Cheetah III,174-cheetah-iii,DC Comics,bad,Female,Human,88,100,88,80,78,95
+Citizen Steel,177-citizen-steel,DC Comics,good,Male,Human,50,95,33,100,23,60
+Cloak,180-cloak,Marvel Comics,good,Male,,63,10,47,64,100,56
+Clock King,181-clock-king,DC Comics,bad,Male,Human,75,10,17,10,7,40
+Colossus,185-colossus,Marvel Comics,good,Male,Mutant,63,83,33,100,45,80
+Copycat,186-copycat,Marvel Comics,neutral,Female,Mutant,56,10,21,25,54,60
+Cottonmouth,188-cottonmouth,Marvel Comics,bad,Male,Human,50,10,8,10,27,25
+Crystal,191-crystal,Marvel Comics,good,Female,Inhuman,63,16,12,14,61,56
+Cyborg,194-cyborg,DC Comics,good,Male,Cyborg,75,53,42,85,71,64
+Cyborg Superman,195-cyborg-superman,DC Comics,bad,Male,Cyborg,75,93,92,100,100,80
+Cyclops,196-cyclops,Marvel Comics,good,Male,Mutant,75,10,23,42,76,80
+Dagger,198-dagger,Marvel Comics,good,Female,,63,10,35,42,52,70
+Daredevil,201-daredevil,Marvel Comics,good,Male,Human,75,13,25,35,61,100
+Darkhawk,202-darkhawk,Marvel Comics,good,Male,Human,50,32,33,70,74,64
+Darkseid,204-darkseid,DC Comics,bad,Male,New God,88,100,83,100,100,95
+Darkstar,206-darkstar,Marvel Comics,good,Female,Mutant,38,8,35,42,79,64
+Dazzler,211-dazzler,Marvel Comics,good,Female,Mutant,63,10,33,60,100,55
+Deadman,212-deadman,DC Comics,good,Male,Human,50,10,33,100,100,42
+Deadshot,214-deadshot,DC Comics,bad,Male,Human,50,10,23,28,55,80
+Deathlok,215-deathlok,Marvel Comics,good,Male,Cyborg,69,32,30,70,40,60
+Deathstroke,216-deathstroke,DC Comics,neutral,Male,Human,75,30,35,100,47,90
+Demogoblin,217-demogoblin,Marvel Comics,bad,Male,Demon,50,48,42,35,67,60
+Destroyer,218-destroyer,Marvel Comics,bad,Male,,50,95,58,98,85,70
+Diamondback,219-diamondback,Marvel Comics,bad,Male,Human,44,16,23,28,45,60
+Doc Samson,221-doc-samson,Marvel Comics,good,Male,Human / Radiation,75,80,33,80,36,70
+Doctor Doom,222-doctor-doom,Marvel Comics,bad,Male,Human,100,32,20,100,100,84
+Doctor Fate,224-doctor-fate,DC Comics,good,Male,Human,81,16,25,80,100,50
+Doctor Octopus,225-doctor-octopus,Marvel Comics,bad,Male,Human,94,48,33,40,53,65
+Doctor Strange,226-doctor-strange,Marvel Comics,good,Male,Human,100,10,12,84,100,60
+Domino,227-domino,Marvel Comics,good,Female,Human,63,10,27,28,49,74
+Doomsday,230-doomsday,DC Comics,bad,Male,Alien,75,100,67,100,100,90
+Doppelganger,231-doppelganger,Marvel Comics,bad,Male,,8,63,60,95,69,84
+Dormammu,232-dormammu,Marvel Comics,bad,Male,,88,95,83,100,100,80
+Dr Manhattan,233-dr-manhattan,DC Comics,good,Male,Human / Cosmic,88,100,42,100,100,42
+Drax the Destroyer,234-drax-the-destroyer,Marvel Comics,good,Male,Human / Altered,56,80,25,85,46,65
+Ego,235-ego,Marvel Comics,bad,-,,88,80,83,99,71,28
+Electro,237-electro,Marvel Comics,bad,Male,Human,69,10,50,56,67,64
+Elektra,238-elektra,Marvel Comics,good,Female,Human,63,11,30,28,59,100
+Elongated Man,240-elongated-man,DC Comics,good,Male,,75,10,33,90,44,40
+Emma Frost,241-emma-frost,Marvel Comics,good,Female,,75,63,35,90,100,42
+Enchantress,242-enchantress,DC Comics,good,Female,Human,63,14,25,60,100,40
+Etrigan,246-etrigan,DC Comics,neutral,Male,Demon,50,85,17,100,100,50
+Evilhawk,248-evilhawk,Marvel Comics,bad,Male,Alien,50,32,33,70,85,64
+Exodus,249-exodus,Marvel Comics,bad,Male,Mutant,63,81,28,28,100,70
+Falcon,251-falcon,Marvel Comics,good,Male,Human,38,13,50,28,22,64
+Fallen One II,252-fallen-one-ii,Marvel Comics,bad,Male,,88,85,83,100,100,56
+Faora,253-faora,DC Comics,bad,Female,Kryptonian,88,95,75,100,98,90
+Feral,254-feral,Marvel Comics,good,-,,38,28,45,28,27,70
+Fin Fang Foom,256-fin-fang-foom,Marvel Comics,good,Male,Kakarantharaian,50,81,23,100,75,70
+Firebird,257-firebird,Marvel Comics,good,Female,,38,8,40,14,100,42
+Firelord,258-firelord,Marvel Comics,good,-,,38,63,75,90,52,28
+Firestar,259-firestar,Marvel Comics,good,Female,Mutant,50,8,54,55,71,32
+Firestorm,260-firestorm,DC Comics,good,Male,,50,53,58,56,100,42
+Firestorm,261-firestorm,DC Comics,good,Male,Human,38,80,58,80,100,40
+Flash,263-flash,DC Comics,good,Male,Human,63,10,100,50,68,32
+Forge,268-forge,Marvel Comics,good,-,,63,10,12,28,25,48
+Franklin Richards,269-franklin-richards,Marvel Comics,good,Male,Mutant,63,80,50,60,100,50
+Franklin Storm,270-franklin-storm,Marvel Comics,good,-,,38,10,1,1,0,10
+Frenzy,271-frenzy,Marvel Comics,bad,Female,,63,53,35,100,38,52
+Galactus,273-galactus,Marvel Comics,neutral,Male,Cosmic Entity,100,100,83,100,100,50
+Gambit,274-gambit,Marvel Comics,good,Male,Mutant,63,10,23,28,55,84
+Gamora,275-gamora,Marvel Comics,good,Female,Zen-Whoberian,75,85,42,85,53,100
+General Zod,278-general-zod,DC Comics,bad,Male,Kryptonian,94,100,96,100,100,95
+Ghost Rider,280-ghost-rider,Marvel Comics,good,Male,Demon,50,55,25,100,100,60
+Giganta,284-giganta,DC Comics,bad,Female,,81,89,23,85,32,42
+Gladiator,285-gladiator,Marvel Comics,neutral,Male,Strontian,50,100,100,100,77,70
+Goblin Queen,286-goblin-queen,Marvel Comics,bad,Female,,75,10,23,28,65,56
+Gog,288-gog,DC Comics,bad,Male,,50,34,47,72,39,56
+Gorilla Grodd,294-gorilla-grodd,DC Comics,bad,Male,Gorilla,81,53,33,70,100,65
+Gravity,296-gravity,Marvel Comics,good,Male,Human,50,32,33,40,69,30
+Green Arrow,298-green-arrow,DC Comics,good,Male,Human,81,12,35,28,39,90
+Green Goblin,299-green-goblin,Marvel Comics,bad,Male,Human,100,48,38,60,48,50
+Green Goblin II,300-green-goblin-ii,Marvel Comics,bad,Male,,75,55,37,50,44,26
+Groot,303-groot,Marvel Comics,good,Male,Flora Colossus,75,85,33,70,100,64
+Guy Gardner,305-guy-gardner,DC Comics,good,Male,Human-Vuldarian,38,90,53,64,100,64
+Hal Jordan,306-hal-jordan,DC Comics,good,Male,Human,69,90,75,80,100,70
+Harley Quinn,309-harley-quinn,DC Comics,bad,Female,Human,88,12,33,65,55,80
+Havok,311-havok,Marvel Comics,good,Male,Mutant,63,10,25,60,71,45
+Hawk,312-hawk,DC Comics,good,Male,,38,38,35,95,43,42
+Hawkeye II,314-hawkeye-ii,Marvel Comics,good,Female,Human,50,6,8,10,24,50
+Hawkgirl,315-hawkgirl,DC Comics,good,Female,,50,28,53,99,96,72
+Heat Wave,320-heat-wave,DC Comics,bad,Male,Human,38,10,17,45,27,30
+Hela,321-hela,Marvel Comics,bad,Female,Asgardian,63,100,46,100,100,45
+Hellcat,323-hellcat,Marvel Comics,good,Female,Human,63,11,33,45,46,70
+Hercules,325-hercules,Marvel Comics,good,Male,Demi-God,63,100,46,85,89,100
+Hope Summers,330-hope-summers,Marvel Comics,good,Female,,63,10,12,32,93,75
+Hulk,332-hulk,Marvel Comics,good,Male,Human / Radiation,88,100,63,100,98,85
+Human Torch,333-human-torch,Marvel Comics,good,Male,Human / Radiation,63,11,63,70,87,42
+Husk,335-husk,Marvel Comics,good,Female,Mutant,63,63,35,78,48,64
+Hybrid,336-hybrid,Marvel Comics,good,Male,Symbiote,63,63,58,75,100,80
+Hydro-Man,337-hydro-man,Marvel Comics,bad,Male,,38,13,25,80,66,50
+Hyperion,338-hyperion,Marvel Comics,good,Male,Eternal,88,100,100,95,87,80
+Iceman,339-iceman,Marvel Comics,good,Male,Mutant,63,32,53,100,100,64
+Indigo,342-indigo,DC Comics,neutral,Female,Alien,75,63,50,50,100,50
+Ink,343-ink,Marvel Comics,good,Male,Mutant,38,28,17,40,73,50
+Invisible Woman,344-invisible-woman,Marvel Comics,good,Female,Human / Radiation,88,10,27,85,93,56
+Iron Fist,345-iron-fist,Marvel Comics,good,Male,Human,75,55,33,50,95,100
+Iron Man,346-iron-man,Marvel Comics,good,Male,Human,100,85,58,85,100,64
+Iron Monger,347-iron-monger,Marvel Comics,bad,Male,,88,63,25,90,57,56
+Isis,348-isis,DC Comics,good,Female,,75,48,75,46,50,56
+Jack of Hearts,350-jack-of-hearts,Marvel Comics,good,Male,Human,63,55,100,30,77,30
+Jennifer Kale,358-jennifer-kale,Marvel Comics,good,Female,,75,10,35,42,74,72
+Jessica Cruz,360-jessica-cruz,DC Comics,good,Female,Human,56,90,46,50,100,55
+John Constantine,367-john-constantine,DC Comics,good,Male,Human,63,10,8,40,54,65
+John Wraith,369-john-wraith,Marvel Comics,good,Male,,75,12,35,28,87,80
+Joker,370-joker,DC Comics,bad,Male,Human,100,10,12,60,43,70
+Jolt,371-jolt,Marvel Comics,good,Female,,63,12,27,32,31,42
+Jubilee,372-jubilee,Marvel Comics,good,Female,Mutant,56,8,22,20,66,90
+Juggernaut,374-juggernaut,Marvel Comics,neutral,Male,Human,44,100,42,100,85,70
+Junkpile,375-junkpile,Marvel Comics,bad,Male,Mutant,50,38,17,90,81,30
+Justice,376-justice,Marvel Comics,good,Male,Human,50,10,33,70,55,30
+Kevin 11,382-kevin-11,DC Comics,good,Male,Human,25,7,12,14,100,40
+Kid Flash,384-kid-flash,DC Comics,good,Male,Human,25,4,92,42,20,30
+Killer Croc,386-killer-croc,DC Comics,bad,Male,Metahuman,19,53,35,90,53,60
+Killer Frost,387-killer-frost,DC Comics,bad,Female,Human,88,10,13,35,59,30
+Kilowog,388-kilowog,DC Comics,good,Male,Bolovaxian,81,90,53,42,100,80
+King Shark,390-king-shark,DC Comics,bad,Male,Animal,50,88,50,90,86,40
+Kingpin,391-kingpin,Marvel Comics,bad,Male,Human,75,18,25,40,13,70
+Klaw,392-klaw,Marvel Comics,bad,Male,Human,63,38,33,100,62,60
+Kraven II,394-kraven-ii,Marvel Comics,bad,Male,Human,50,34,23,28,43,85
+Kraven the Hunter,395-kraven-the-hunter,Marvel Comics,bad,Male,Human,63,32,35,42,25,85
+Krypto,396-krypto,DC Comics,good,Male,Kryptonian,9,80,100,90,82,40
+Kyle Rayner,397-kyle-rayner,DC Comics,good,Male,Human,69,90,50,60,100,60
+Lady Deathstrike,400-lady-deathstrike,Marvel Comics,bad,Female,Cyborg,63,28,42,85,48,90
+Leader,401-leader,Marvel Comics,bad,Male,,100,10,12,14,59,42
+Leech,402-leech,Marvel Comics,good,Male,,25,5,12,14,62,14
+Legion,403-legion,Marvel Comics,good,Male,Mutant,50,100,42,30,100,75
+Lex Luthor,405-lex-luthor,DC Comics,bad,Male,Human,100,53,25,65,68,70
+Light Lass,406-light-lass,DC Comics,good,Female,,38,10,35,28,67,42
+Lightning Lad,407-lightning-lad,DC Comics,good,Male,,38,10,23,28,60,42
+Lightning Lord,408-lightning-lord,DC Comics,bad,Male,,44,10,23,42,66,42
+Living Brain,409-living-brain,Marvel Comics,bad,-,,75,53,35,56,31,28
+Living Tribunal,410-living-tribunal,Marvel Comics,neutral,-,Cosmic Entity,100,100,100,100,100,30
+Lizard,412-lizard,Marvel Comics,bad,Male,Human,50,51,27,70,63,56
+Lobo,413-lobo,DC Comics,neutral,Male,Czarnian,94,100,54,100,100,85
+Loki,414-loki,Marvel Comics,bad,Male,Asgardian,88,63,46,85,100,60
+Longshot,415-longshot,Marvel Comics,good,Male,Human,50,10,27,10,71,70
+Luna,419-luna,Marvel Comics,good,Female,Human,38,6,83,14,53,14
+Mach-IV,421-mach-iv,Marvel Comics,bad,Male,,75,36,60,84,60,56
+Machine Man,422-machine-man,Marvel Comics,good,-,,63,32,35,84,51,64
+Magneto,423-magneto,Marvel Comics,bad,Male,Mutant,88,80,27,84,91,80
+Magog,424-magog,DC Comics,good,Male,,50,48,23,64,66,72
+Magus,425-magus,Marvel Comics,bad,Male,,88,100,70,99,100,74
+Man-Bat,427-man-bat,DC Comics,neutral,Male,Human,38,18,50,70,33,30
+Man-Thing,428-man-thing,Marvel Comics,good,Male,,50,32,8,100,100,40
+Man-Wolf,429-man-wolf,Marvel Comics,good,Male,,63,44,35,42,45,70
+Mandarin,430-mandarin,Marvel Comics,bad,Male,Human,100,28,23,28,100,95
+Mantis,431-mantis,Marvel Comics,good,Female,Human-Kree,63,8,33,80,100,80
+Martian Manhunter,432-martian-manhunter,DC Comics,good,Male,Martian,100,95,92,100,100,85
+Marvel Girl,433-marvel-girl,Marvel Comics,good,Female,,63,85,47,42,100,80
+Match,436-match,DC Comics,bad,Male,,75,95,83,85,100,70
+Maverick,438-maverick,Marvel Comics,good,Male,,63,10,12,42,60,85
+Maxima,439-maxima,DC Comics,bad,Female,,75,90,35,56,81,75
+Medusa,441-medusa,Marvel Comics,good,Female,Inhuman,75,34,35,70,37,56
+Mephisto,443-mephisto,Marvel Comics,bad,Male,,88,85,35,95,100,42
+Mera,444-mera,DC Comics,good,Female,Atlantean,56,62,79,60,92,80
+Metallo,445-metallo,DC Comics,bad,Male,Android,75,53,23,95,86,64
+Metron,448-metron,DC Comics,good,Male,,88,10,47,56,100,28
+Micro Lad,451-micro-lad,DC Comics,good,Male,,38,28,27,28,44,32
+Mimic,452-mimic,Marvel Comics,good,Male,,63,67,47,56,79,42
+Miss Martian,455-miss-martian,DC Comics,good,Female,,63,85,58,100,100,45
+Mister Fantastic,456-mister-fantastic,Marvel Comics,good,Male,Human / Radiation,100,10,18,70,33,64
+Mister Freeze,457-mister-freeze,DC Comics,bad,Male,Human,75,32,12,70,37,28
+Mister Knife,458-mister-knife,Marvel Comics,bad,Male,Spartoi,75,10,17,30,13,65
+Mister Mxyzptlk,459-mister-mxyzptlk,DC Comics,bad,Male,God / Eternal,100,85,100,100,100,50
+Mister Sinister,460-mister-sinister,Marvel Comics,bad,Male,Human / Altered,100,48,46,90,100,50
+Mister Zsasz,461-mister-zsasz,DC Comics,bad,Male,Human,88,22,33,28,18,85
+Mockingbird,462-mockingbird,Marvel Comics,good,Female,Human,75,31,38,20,48,95
+MODOK,463-modok,Marvel Comics,bad,Male,Cyborg,100,18,25,25,79,15
+Molten Man,467-molten-man,Marvel Comics,bad,Male,,50,73,23,84,53,56
+Moon Knight,470-moon-knight,Marvel Comics,good,Male,Human,50,36,23,42,28,75
+Moonstone,471-moonstone,Marvel Comics,bad,Female,,56,67,47,52,74,80
+Morlun,472-morlun,Marvel Comics,bad,Male,,63,60,35,42,74,56
+Moses Magnum,474-moses-magnum,Marvel Comics,bad,Male,,75,28,12,42,55,56
+Mr Immortal,475-mr-immortal,Marvel Comics,good,Male,Mutant,50,10,8,100,69,30
+Multiple Man,478-multiple-man,Marvel Comics,good,Male,,63,11,23,70,28,62
+Mysterio,479-mysterio,Marvel Comics,bad,Male,Human,81,10,17,40,82,70
+Mystique,480-mystique,Marvel Comics,bad,Female,Mutant,75,12,23,64,64,74
+Namor,481-namor,Marvel Comics,good,Male,Atlantean,69,95,58,70,73,85
+Namora,483-namora,Marvel Comics,good,Female,,50,85,42,42,48,64
+Namorita,484-namorita,Marvel Comics,good,Female,,50,72,47,70,37,70
+Nebula,487-nebula,Marvel Comics,bad,Female,Luphomoid,63,52,13,50,42,60
+Negasonic Teenage Warhead,488-negasonic-teenage-warhead,Marvel Comics,good,Female,Mutant,50,7,8,10,45,35
+Nick Fury,489-nick-fury,Marvel Comics,good,Male,Human,75,11,23,42,25,100
+Nightcrawler,490-nightcrawler,Marvel Comics,good,Male,,50,10,47,14,76,80
+Northstar,495-northstar,Marvel Comics,good,Male,,50,18,83,56,65,70
+Nova,496-nova,Marvel Comics,good,Male,Human,100,85,75,100,100,80
+Nova,497-nova,Marvel Comics,good,Female,Human / Cosmic,63,60,100,100,100,35
+Odin,498-odin,Marvel Comics,good,Male,God / Eternal,100,83,67,95,100,90
+Offspring,499-offspring,DC Comics,good,Male,,50,10,35,99,100,56
+One-Above-All,503-one-above-all,Marvel Comics,neutral,-,Cosmic Entity,100,100,100,100,100,100
+Onslaught,504-onslaught,Marvel Comics,bad,Male,Mutant,88,100,33,100,100,55
+Osiris,506-osiris,DC Comics,good,Male,,75,85,60,95,65,42
+Ozymandias,508-ozymandias,DC Comics,bad,Male,Human,100,18,33,20,49,95
+Parademon,509-parademon,DC Comics,bad,-,Parademon,9,28,17,50,53,25
+Penguin,514-penguin,DC Comics,bad,Male,Human,75,10,12,28,30,45
+Phantom Girl,516-phantom-girl,DC Comics,good,Female,,38,10,23,28,53,42
+Plantman,518-plantman,Marvel Comics,bad,Male,Mutant,63,60,25,55,61,25
+Plastic Man,520-plastic-man,DC Comics,good,Male,Human,50,63,23,100,100,56
+Plastique,521-plastique,DC Comics,bad,Female,,50,10,23,28,60,42
+Poison Ivy,522-poison-ivy,DC Comics,bad,Female,Human,81,14,21,40,100,40
+Polaris,523-polaris,Marvel Comics,good,Female,Mutant,63,73,42,50,100,45
+Power Girl,524-power-girl,DC Comics,good,Female,Kryptonian,94,100,100,100,100,75
+Professor X,527-professor-x,Marvel Comics,good,Male,Mutant,100,8,12,14,100,32
+Professor Zoom,528-professor-zoom,DC Comics,bad,Male,Human,94,10,100,20,83,20
+Psylocke,529-psylocke,Marvel Comics,good,Female,Mutant,63,33,25,40,100,90
+Punisher,530-punisher,Marvel Comics,good,Male,Human,69,16,21,45,42,100
+Purple Man,531-purple-man,Marvel Comics,bad,Male,Human,56,10,8,30,92,10
+Pyro,532-pyro,Marvel Comics,bad,Male,,38,10,12,14,54,28
+Question,535-question,DC Comics,good,Male,Human,81,14,27,35,20,80
+Quicksilver,536-quicksilver,Marvel Comics,good,Male,Mutant,63,28,100,60,81,56
+Quill,537-quill,Marvel Comics,good,Male,,38,10,12,14,23,14
+Ra's Al Ghul,538-ras-al-ghul,DC Comics,bad,Male,Human,100,28,32,42,27,100
+Raven,542-raven,DC Comics,neutral,Female,Human,50,10,29,70,84,40
+Ray,543-ray,DC Comics,good,Male,Human,50,10,92,100,100,20
+Red Arrow,545-red-arrow,DC Comics,good,Male,Human,63,16,25,20,23,80
+Red Hulk,547-red-hulk,Marvel Comics,neutral,Male,Human / Radiation,50,100,47,85,82,75
+Red Skull,550-red-skull,Marvel Comics,bad,Male,,75,10,12,14,19,80
+Red Tornado,551-red-tornado,DC Comics,good,Male,Android,75,38,67,60,100,40
+Rhino,556-rhino,Marvel Comics,bad,Male,Human / Radiation,25,80,43,90,36,85
+Rick Flag,557-rick-flag,DC Comics,bad,Male,,88,11,23,28,19,95
+Riddler,558-riddler,DC Comics,bad,Male,,100,10,12,14,10,14
+Rip Hunter,559-rip-hunter,DC Comics,good,Male,Human,100,8,8,10,100,25
+Robin V,564-robin-v,DC Comics,good,Male,Human,69,8,33,16,29,65
+Robin VI,565-robin-vi,DC Comics,neutral,Female,Human,50,8,25,20,17,70
+Rocket Raccoon,566-rocket-raccoon,Marvel Comics,good,Male,Animal,50,5,23,28,28,64
+Rogue,567-rogue,Marvel Comics,good,Female,,75,10,12,28,80,80
+Rorschach,569-rorschach,DC Comics,good,Male,Human,75,10,29,20,23,80
+Sabretooth,570-sabretooth,Marvel Comics,bad,Male,Mutant,56,48,38,90,50,100
+Sage,571-sage,Marvel Comics,good,Female,,75,10,12,14,28,56
+Sandman,572-sandman,Marvel Comics,neutral,Male,Human,44,75,46,90,100,60
+Sasquatch,573-sasquatch,Marvel Comics,good,Male,,75,80,23,56,15,42
+Scarecrow,576-scarecrow,DC Comics,bad,Male,Human,81,10,12,14,48,50
+Scarlet Spider II,578-scarlet-spider-ii,Marvel Comics,good,Male,Clone,88,55,60,40,37,56
+Scarlet Witch,579-scarlet-witch,Marvel Comics,bad,Female,Mutant,100,10,29,70,100,80
+Scorpia,580-scorpia,Marvel Comics,bad,Female,,38,28,42,28,34,28
+Sebastian Shaw,582-sebastian-shaw,Marvel Comics,bad,Male,Mutant,63,85,12,95,36,56
+Sentry,583-sentry,Marvel Comics,neutral,Male,Mutant,75,100,100,84,100,40
+Shadow King,584-shadow-king,Marvel Comics,good,-,,75,12,27,100,100,75
+Shadow Lass,585-shadow-lass,DC Comics,good,Female,Talokite,63,10,67,20,79,80
+Shadowcat,586-shadowcat,Marvel Comics,good,Female,Mutant,88,8,21,25,69,70
+Shang-Chi,587-shang-chi,Marvel Comics,good,Male,Human,63,12,30,50,29,100
+Shatterstar,588-shatterstar,Marvel Comics,good,Male,,63,48,45,64,49,84
+She-Hulk,589-she-hulk,Marvel Comics,good,Female,Human,81,100,42,100,40,70
+Shocker,591-shocker,Marvel Comics,bad,Male,Human,63,10,23,70,79,56
+Shriek,592-shriek,Marvel Comics,good,Female,,50,10,23,28,45,42
+Sif,594-sif,Marvel Comics,good,Female,Asgardian,63,90,67,80,100,70
+Silk,595-silk,Marvel Comics,good,Female,Human,75,48,71,70,71,65
+Silver Surfer,598-silver-surfer,Marvel Comics,good,Male,Alien,56,100,100,90,100,32
+Silverclaw,599-silverclaw,Marvel Comics,good,Female,,50,28,35,42,34,42
+Simon Baz,600-simon-baz,DC Comics,good,Male,Human,56,90,42,55,100,60
+Sinestro,601-sinestro,DC Comics,neutral,Male,Korugaran,75,85,53,64,100,55
+Siren,602-siren,DC Comics,bad,Female,Atlantean,56,62,79,60,92,60
+Siryn,604-siryn,Marvel Comics,bad,Female,,38,8,47,28,50,42
+Skaar,605-skaar,Marvel Comics,good,Male,,50,85,27,90,69,85
+Snowbird,607-snowbird,Marvel Comics,good,Female,,50,32,27,42,70,52
+Sobek,608-sobek,DC Comics,good,Male,,50,34,23,46,20,56
+Solomon Grundy,609-solomon-grundy,DC Comics,bad,Male,Zombie,9,93,13,100,92,30
+Songbird,610-songbird,Marvel Comics,good,Female,,75,36,27,42,55,56
+Space Ghost,611-space-ghost,DC Comics,good,Male,Human,38,18,33,40,95,80
+Speedy,615-speedy,DC Comics,good,Female,Human,50,6,33,20,26,70
+Spider-Girl,618-spider-girl,Marvel Comics,good,Female,Human,63,38,60,65,53,75
+Spider-Gwen,619-spider-gwen,Marvel Comics,good,Female,Human,75,55,63,70,66,70
+Spider-Man,620-spider-man,Marvel Comics,good,Male,Human,90,55,67,75,74,85
+Spider-Woman,623-spider-woman,Marvel Comics,good,Female,Human,56,42,42,60,68,70
+Spider-Woman III,625-spider-woman-iii,Marvel Comics,good,Female,,50,48,27,42,60,28
+Spyke,628-spyke,Marvel Comics,good,Male,Mutant,50,12,17,60,48,30
+Star-Lord,630-star-lord,Marvel Comics,good,Male,Human-Spartoi,69,20,33,50,25,70
+Stardust,631-stardust,Marvel Comics,good,Male,,88,85,100,110,100,85
+Starfire,632-starfire,DC Comics,good,Female,Tamaranean,50,80,33,85,59,70
+Stargirl,633-stargirl,DC Comics,good,Female,Human,63,80,25,90,87,55
+Static,634-static,DC Comics,good,Male,Mutant,69,8,42,50,90,40
+Steel,635-steel,DC Comics,good,Male,,81,82,53,90,64,64
+Steppenwolf,637-steppenwolf,DC Comics,bad,Male,New God,94,100,83,100,100,100
+Storm,638-storm,Marvel Comics,good,Female,Mutant,75,10,47,30,88,75
+Sunspot,640-sunspot,Marvel Comics,good,Male,Mutant,63,63,35,25,90,70
+Superboy,641-superboy,DC Comics,good,Male,,75,95,83,90,95,60
+Superboy-Prime,642-superboy-prime,DC Comics,bad,Male,Kryptonian,94,100,100,100,100,85
+Supergirl,643-supergirl,DC Comics,good,Female,Kryptonian,94,100,100,100,100,75
+Swamp Thing,645-swamp-thing,DC Comics,bad,Male,God / Eternal,88,95,25,100,100,55
+Swarm,646-swarm,Marvel Comics,bad,Male,Mutant,75,18,50,90,38,35
+Synch,648-synch,Marvel Comics,good,Male,,75,67,23,28,74,56
+Taskmaster,653-taskmaster,Marvel Comics,bad,Male,Human,75,12,50,20,63,100
+Thanos,655-thanos,Marvel Comics,bad,Male,Eternal,100,100,33,100,100,80
+The Comedian,657-the-comedian,DC Comics,neutral,Male,Human,63,14,17,10,12,80
+Thing,658-thing,Marvel Comics,good,Male,Human / Radiation,75,84,21,100,38,80
+Thor Girl,660-thor-girl,Marvel Comics,good,Female,Asgardian,75,83,70,84,100,70
+Thunderbird,661-thunderbird,Marvel Comics,good,Male,,50,32,27,32,13,70
+Thunderstrike,664-thunderstrike,Marvel Comics,good,Male,,63,80,70,84,42,72
+Thundra,665-thundra,Marvel Comics,good,Female,,38,81,32,64,26,54
+Tiger Shark,666-tiger-shark,Marvel Comics,bad,Male,Human,38,72,46,70,51,28
+Tigra,667-tigra,Marvel Comics,good,Female,,63,32,53,38,33,90
+Tinkerer,668-tinkerer,Marvel Comics,bad,Male,,100,10,23,14,10,14
+Toad,670-toad,Marvel Comics,neutral,Male,Mutant,50,34,58,56,70,28
+Toxin,671-toxin,Marvel Comics,good,Male,Symbiote,56,73,70,84,82,70
+Triplicate Girl,676-triplicate-girl,DC Comics,good,Female,,63,10,23,42,44,42
+Triton,677-triton,Marvel Comics,good,Male,Inhuman,56,63,50,65,35,55
+Two-Face,678-two-face,DC Comics,bad,Male,,88,10,12,14,9,28
+Ultragirl,679-ultragirl,Marvel Comics,good,Female,,50,80,35,70,35,80
+Ultron,680-ultron,Marvel Comics,bad,Male,Android,88,83,42,100,100,64
+Utgard-Loki,681-utgard-loki,Marvel Comics,bad,Male,Frost Giant,50,80,23,84,85,64
+Vanisher,685-vanisher,Marvel Comics,bad,Male,,63,10,75,56,61,42
+Venom II,688-venom-ii,Marvel Comics,bad,Male,,50,57,47,70,54,56
+Vibe,692-vibe,DC Comics,good,Male,Human,50,10,17,30,99,30
+Vixen,699-vixen,DC Comics,good,Female,Human,50,38,50,50,62,25
+Vulture,701-vulture,Marvel Comics,bad,Male,Human,75,22,42,25,26,30
+Walrus,702-walrus,Marvel Comics,bad,Male,Human,50,28,8,50,11,20
+War Machine,703-war-machine,Marvel Comics,good,Male,Human,63,80,63,100,100,85
+Warlock,705-warlock,Marvel Comics,good,Male,,88,36,79,95,71,95
+Warp,706-warp,DC Comics,bad,Male,,38,10,23,28,85,50
+Wasp,708-wasp,Marvel Comics,good,Female,Human,63,17,58,52,29,42
+Watcher,709-watcher,Marvel Comics,good,Male,,100,80,67,89,100,56
+White Canary,711-white-canary,DC Comics,bad,Female,Human,63,7,33,15,49,90
+Wildfire,713-wildfire,DC Comics,good,Male,,50,32,23,100,77,42
+Winter Soldier,714-winter-soldier,Marvel Comics,good,Male,Human,56,32,35,65,60,84
+Wolfsbane,716-wolfsbane,Marvel Comics,good,Female,,38,16,35,42,26,42
+Wolverine,717-wolverine,Marvel Comics,good,Male,Mutant,63,32,50,100,89,100
+Wonder Girl,718-wonder-girl,DC Comics,good,Female,Demi-God,75,90,25,80,39,60
+Wonder Man,719-wonder-man,Marvel Comics,good,Male,,75,100,53,90,64,64
+Wonder Woman,720-wonder-woman,DC Comics,good,Female,Amazon,88,100,79,100,100,100
+Wyatt Wingfoot,722-wyatt-wingfoot,Marvel Comics,good,Male,,10,10,12,1,1,56
+X-23,723-x-23,Marvel Comics,good,Female,Mutant / Clone,75,24,42,100,55,95
+X-Man,724-x-man,Marvel Comics,good,Male,,88,53,53,95,100,84
+Yellowjacket II,727-yellowjacket-ii,Marvel Comics,good,Female,Human,50,10,35,28,31,28
+Ymir,728-ymir,Marvel Comics,good,Male,Frost Giant,50,100,27,100,98,28
+Zatanna,730-zatanna,DC Comics,good,Female,Human,81,10,23,28,100,56
+Zoom,731-zoom,DC Comics,bad,Male,,50,10,100,28,100,28

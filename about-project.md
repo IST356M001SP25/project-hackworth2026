@@ -11,13 +11,15 @@ My project creates a data pipeline that extracts, transforms, and analyzes super
 
 1. Clone the GitHub repository and install the required libraries using "pip install -r requirements.txt."
 
-2. Run the data pipeline:
-    2a. First, by running the python in "code/extract.py", you'll fetch the raw data.
-    2b. Secondly, by running the python in "code/transform.py", you'll then be able to clean and structure the data.
+**IMPORTANT INFORMATION**
+2. To ensure the full function of the data pipeline:
+    2a. First, you must run the python in "code/extract.py", there you'll fetch the raw data.
+    2b. Next, you will need to run the python in "code/transform.py", here you'll be able to clean and structure the data.
+    3b. Then, by running the python in "code/load.py", this will load the clean data into the final file; "code/app.py". 
 
-3. Launch the Streamlit dashboard with: "streamlit run code/app.py" or depending on your previous preperations you can use the "streamlit" run button on your tab.
+3. Launch the Streamlit dashboard with: "streamlit run code/app.py" or depending on your previous preperations you can use the "streamlit" run button on your tab when accesing the file "code/app.py".
 
-4. Once your arrived in the strreamlit app, you will now be able to use the sidebar to filter by publisher and explore the visual analytics provided.
+4. Once your arrived in the streamlit app, you will now be able to use the sidebar to filter by publisher and explore the visual analytics provided.
 
 ### Other things you need to know
 

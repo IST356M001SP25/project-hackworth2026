@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Student Email:  email
+Student Name:  Hiram Hackworth
+Student Email:  ahhackwo@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+For this project, it was a lot more diffcult then the other assignments. It took quite a bit of w3schools to get me feeling more confident in my abilites to perform in this. But I did enjoy bringing in my love of marvel and dc into this project. I felt that this inspired me to become a better and creative coder. But, I Digress, for this project I felt that I made stronger marks in my understandinf and implemeentaion of data visualization, this was evident when it came to adding those images into my streamlit dashboard. The filter between the two datasets were a bit troublesome at first until I understood how much more diffcult I was making my life trying to add more features than I wanted. So I just utilized the filter I placed on the publishing, which didn't occur to me before was really the only way I really needed to go. But, aside from that I will admit that I had some assitance from the copilot in certain areas where I was troubled. It was nice to have a greater range of coding here. Overall, this was a very valuable experience for me to get a better understanding on how to create my own datapipe line. 
