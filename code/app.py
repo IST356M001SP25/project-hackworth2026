@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 from PIL import Image
 import os
 from projectHackworth2026.code.load import load_data, get_publisher_counts, get_average_stats, get_gender_distribution
@@ -27,27 +28,49 @@ with col2:
         dc_logo = Image.open(os.path.join("projectHackworth2026","code","cache", "dc_logo.png"))
         st.image(dc_logo, width=200)
 
+# Define hex color mapping
+publisher_colors = {
+    "Marvel Comics": "#ED1D24",  # Marvel red
+    "DC Comics": "#0072CE"       # DC blue
+}
+
 # Character count
 st.header("Character Count by Publisher")
-count_data = get_publisher_counts(load_data())
+count_data = get_publisher_counts(df)
 st.bar_chart(count_data)
 
 # Average stats
 st.header("Average Power Stats")
-avg_stats = get_average_stats(load_data())
+avg_stats = get_average_stats(df)
 st.dataframe(avg_stats.round(2))
 
 # Gender distribution
 st.header("Gender Distribution")
-gender_dist = get_gender_distribution(load_data()).reset_index()
-color_map = {"Marvel Comics": "red", "DC Comics": "blue"}
-fig = px.bar(
-    gender_dist,
-    x='publisher',
-    y=['Male', 'Female', '-'],
-    title="Gender Distribution",
-    color_discrete_map=color_map
+gender_dist = get_gender_distribution(df).fillna(0)
+
+# Ensure expected genders are present
+expected_genders = ['Male', 'Female', '-']
+for gender in expected_genders:
+    if gender not in gender_dist.columns:
+        gender_dist[gender] = 0
+
+# Build traces manually
+fig = go.Figure()
+for gender in expected_genders:
+    fig.add_trace(go.Bar(
+        x=gender_dist.index,
+        y=gender_dist[gender],
+        name=gender,
+        marker_color=[publisher_colors.get(pub, 'gray') for pub in gender_dist.index]
+    ))
+
+fig.update_layout(
+    title="Gender Distribution by Publisher",
+    barmode='group',
+    xaxis_title="Publisher",
+    yaxis_title="Character Count"
 )
+
 st.plotly_chart(fig, use_container_width=True)
 
 # Top heroes per stat
@@ -62,9 +85,10 @@ for stat in stat_cols:
         y=stat,
         color='publisher',
         text=stat,
-        color_discrete_map=color_map
+        color_discrete_map=publisher_colors
     )
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
 st.caption("Data Source: https://akabab.github.io/superhero-api/")
+
