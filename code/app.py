@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 from PIL import Image
 import os
-from load import load_data, get_publisher_counts, get_average_stats, get_gender_distribution
+from projectHackworth2026.code.load import load_data, get_publisher_counts, get_average_stats, get_gender_distribution
 
 st.set_page_config(layout="wide")
 st.title("Marvel vs DC: Superhero Stats Dashboard")
