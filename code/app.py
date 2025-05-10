@@ -21,10 +21,10 @@ if publisher != "All":
 col1, col2, col3 = st.columns([1, 2, 1])
 with col2:
     if publisher == "Marvel Comics":
-        marvel_logo = Image.open(os.path.join("cache", "marvel_logo.png"))
+        marvel_logo = Image.open(os.path.join("projectHackworth2026","code","cache", "marvel_logo.png"))
         st.image(marvel_logo, width=200)
     elif publisher == "DC Comics":
-        dc_logo = Image.open(os.path.join("cache", "dc_logo.png"))
+        dc_logo = Image.open(os.path.join("projectHackworth2026","code","cache", "dc_logo.png"))
         st.image(dc_logo, width=200)
 
 # Character count
@@ -40,7 +40,14 @@ st.dataframe(avg_stats.round(2))
 # Gender distribution
 st.header("Gender Distribution")
 gender_dist = get_gender_distribution(load_data()).reset_index()
-fig = px.bar(gender_dist, x='publisher', y=['Male', 'Female', '-'], title="Gender Distribution")
+color_map = {"Marvel Comics": "red", "DC Comics": "blue"}
+fig = px.bar(
+    gender_dist,
+    x='publisher',
+    y=['Male', 'Female', '-'],
+    title="Gender Distribution",
+    color_discrete_map=color_map
+)
 st.plotly_chart(fig, use_container_width=True)
 
 # Top heroes per stat
@@ -49,7 +56,14 @@ stat_cols = ['intelligence', 'strength', 'speed', 'durability', 'power', 'combat
 for stat in stat_cols:
     st.subheader(f"Top 5 by {stat.title()}")
     top_heroes = df.sort_values(by=stat, ascending=False).head(5)
-    fig = px.bar(top_heroes, x='name', y=stat, color='publisher', text=stat)
+    fig = px.bar(
+        top_heroes,
+        x='name',
+        y=stat,
+        color='publisher',
+        text=stat,
+        color_discrete_map=color_map
+    )
     st.plotly_chart(fig, use_container_width=True)
 
 st.markdown("---")
