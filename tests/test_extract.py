@@ -2,9 +2,9 @@ import pytest
 import os
 import json
 from unittest.mock import patch
-from procode import extract
+from projectHackworth2026.code.extract import extract
 
-@patch('code.extract.requests.get')
+@patch('projectHackworth2026.code.extract.requests.get')
 def test_fetch_superhero_data(mock_get):
     mock_get.return_value.status_code = 200
     mock_get.return_value.json.return_value = [{"name": "Spider-Man", "biography": {"publisher": "Marvel Comics"}}]
